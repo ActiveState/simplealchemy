@@ -10,7 +10,7 @@ def read(fname):
 
 
 setup(
-    name='simpledb',
+    name='simplealchemy',
     version="1.0",
     description='Simple wrapper around SQLalchemy',
     long_description=read('README.md'),
@@ -18,7 +18,7 @@ setup(
     keywords='sqlalchemy database',
     author='Sridhar Ratnakumar',
     author_email='github@srid.name',
-    url='http://github.com/ActiveState/simpledb',
+    url='http://github.com/ActiveState/simplealchemy',
     license='MIT',
-    py_modules=["simpledb"],
+    py_modules=["simplealchemy],
 )

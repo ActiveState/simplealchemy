@@ -1,5 +1,5 @@
-simpledb
-========
+simplealchemy
+=============
 
 Simple wrapper around SQLalchemy
 

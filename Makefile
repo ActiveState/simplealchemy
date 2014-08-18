@@ -1,2 +1,2 @@
 all:
-	docker build -t simpledb .
+	docker build -t simplealchemy .
