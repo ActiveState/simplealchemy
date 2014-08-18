@@ -20,5 +20,5 @@ setup(
     author_email='github@srid.name',
     url='http://github.com/ActiveState/simplealchemy',
     license='MIT',
-    py_modules=["simplealchemy],
+    py_modules=["simplealchemy"],
 )
