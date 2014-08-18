@@ -14,7 +14,6 @@ from sqlalchemy import create_engine
 from sqlalchemy.types import String, Text, Boolean, PickleType
 from sqlalchemy.orm import sessionmaker, scoped_session, mapper
 
-
 # A PickleType that will work on both Python 2.x and 3.x
 # i.e., if you *write* to a DB entry using Python 3.x, we are letting
 # Python 3.x apps to read from it as well.
